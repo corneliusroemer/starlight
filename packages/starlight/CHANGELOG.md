@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.28.4
+
+### Patch Changes
+
+- [#2507](https://github.com/withastro/starlight/pull/2507) [`bd6ced5`](https://github.com/withastro/starlight/commit/bd6ced5bc46310b217c7bfe83a0f68ba4a03da45) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Fixes a table of contents highlighting issue after resizing the window.
+
 ## 0.28.3
 
 ### Patch Changes
